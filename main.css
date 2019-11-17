@@ -3,7 +3,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #ffd0ab;
+    background: #2d38a0;
     color: #333;
     font-family: 'calibri', sans-serif;
     font-weight: 400;
@@ -15,7 +15,7 @@ body{
     text-align: center;
     padding: 2rem;
     border-radius: 5px;
-    background-color: #fff;
+    background-color: rgb(131, 39, 216);
     flex: 0 0 80%;
 
 }
@@ -43,5 +43,5 @@ blockquote{
 }
 
 #quoteAuthor{
-    color: #f9f9f9
+    color: #be0b0b
 }
